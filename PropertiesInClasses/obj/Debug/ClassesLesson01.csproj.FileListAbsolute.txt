@@ -1,0 +1,6 @@
+C:\Users\murph\Documents\Visual Studio 2017\MTA Projects\ClassesAndObjects\ClassesLesson01\bin\Debug\ClassesLesson01.exe.config
+C:\Users\murph\Documents\Visual Studio 2017\MTA Projects\ClassesAndObjects\ClassesLesson01\bin\Debug\ClassesLesson01.exe
+C:\Users\murph\Documents\Visual Studio 2017\MTA Projects\ClassesAndObjects\ClassesLesson01\bin\Debug\ClassesLesson01.pdb
+C:\Users\murph\Documents\Visual Studio 2017\MTA Projects\ClassesAndObjects\ClassesLesson01\obj\Debug\ClassesLesson01.csprojResolveAssemblyReference.cache
+C:\Users\murph\Documents\Visual Studio 2017\MTA Projects\ClassesAndObjects\ClassesLesson01\obj\Debug\ClassesLesson01.exe
+C:\Users\murph\Documents\Visual Studio 2017\MTA Projects\ClassesAndObjects\ClassesLesson01\obj\Debug\ClassesLesson01.pdb
